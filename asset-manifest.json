@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe21ee6c.chunk.css",
+    "main.js": "/static/js/main.bea81b0e.chunk.js",
+    "main.js.map": "/static/js/main.bea81b0e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1b033e7b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1b033e7b.js.map",
+    "static/css/2.c29af682.chunk.css": "/static/css/2.c29af682.chunk.css",
+    "static/js/2.3cce8d43.chunk.js": "/static/js/2.3cce8d43.chunk.js",
+    "static/js/2.3cce8d43.chunk.js.map": "/static/js/2.3cce8d43.chunk.js.map",
+    "static/js/3.679a09b4.chunk.js": "/static/js/3.679a09b4.chunk.js",
+    "static/js/3.679a09b4.chunk.js.map": "/static/js/3.679a09b4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c29af682.chunk.css.map": "/static/css/2.c29af682.chunk.css.map",
+    "static/css/main.fe21ee6c.chunk.css.map": "/static/css/main.fe21ee6c.chunk.css.map",
+    "static/js/2.3cce8d43.chunk.js.LICENSE.txt": "/static/js/2.3cce8d43.chunk.js.LICENSE.txt",
+    "static/media/Ma.Bradley.8cdeb1a7.jpg": "/static/media/Ma.Bradley.8cdeb1a7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b033e7b.js",
+    "static/css/2.c29af682.chunk.css",
+    "static/js/2.3cce8d43.chunk.js",
+    "static/css/main.fe21ee6c.chunk.css",
+    "static/js/main.bea81b0e.chunk.js"
+  ]
+}
