@@ -1,0 +1,47 @@
+.project{
+    font-size: calc(10px + 2vmin);
+}
+
+.header{
+    border: none;
+    padding: .75rem 1.25rem;
+    background: none;
+}
+
+.header-text{
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: none;
+    outline: none;
+    transition: color 0.2s;
+}
+
+.header-text:focus{
+    outline: none;
+}
+
+.header-text:hover{
+    position: relative;
+    color: #ffcb9a;
+}
+
+.card-body{
+    border: solid;
+    border-color: white;
+}
+
+.project-links{
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+.link{
+    color: #7395ae;
+    margin-left: 3%;
+}
+
+.link:hover{
+    text-decoration: none;
+    color: #e8a87c;
+}

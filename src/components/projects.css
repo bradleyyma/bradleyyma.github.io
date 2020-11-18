@@ -1,0 +1,17 @@
+
+.projects{
+    color: white;
+    background: #5d5c61;
+    height: 100%;
+    padding-bottom: 20%;
+}
+
+.projects>h1{
+    padding-top: 5%;
+}
+
+.project-names{
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}

@@ -1,0 +1,74 @@
+.myname{
+    color: #E0F3FF;
+}
+.profile-pic{
+  margin-left: -70px;
+  margin-top: -80px;
+  height: 350px;
+}
+.profile-frame{
+  display: inline-block;
+  position: relative;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.aboutme{
+    color: #E0F3FF;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.carousel{
+    color: #5d5c61;
+}
+.links{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+}
+.row{
+    justify-content: center;
+}
+.icon{
+    height: 32px;
+    -webkit-transition: all .2s;
+    transition: all .2s;
+    margin-left: 3vmin;
+    margin-right: 3vmin;
+    margin-top: 2vmin;
+}
+.icon:hover{
+    margin-top: 1vmin;
+}
+.resume{
+    border: none;
+    background: none;
+    margin-top: 1.5vmin;
+    -webkit-transition: all .2s;
+    transition: all .2s;
+    color: black;
+}
+.resume:hover{
+    background: none;
+    color: #5d5c61;
+}
+
+.arrow{
+    border: none;
+    background: none;
+    color: white;
+    font-size: 10vmin;
+    transition: color 0.2s;
+    position: absolute;
+    bottom: 2%;
+}
+
+.arrow:hover{
+    color: black;
+    text-decoration: none;
+}
