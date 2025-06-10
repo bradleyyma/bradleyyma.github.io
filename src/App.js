@@ -1,14 +1,20 @@
 import './App.css';
-import Intro from './components/intro';
+import Hero from './components/Hero';
+import About from './components/About';
 import Projects from './components/projects';
-import Nav from './components/nav';
-import {useState} from 'react';
+import Skills from './components/Skills';
+import Contact from './components/Contact';
+import Navigation from './components/Navigation';
+
 function App() {
-    const [section, setSection] = useState('about')
   return (
     <div className="App">
-        <Intro id="about-me"/>
-        <Projects id="projects"/>
+      <Navigation />
+      <Hero />
+      <About />
+      <Skills />
+      <Projects />
+      <Contact />
     </div>
   );
 }
