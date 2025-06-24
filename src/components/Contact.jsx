@@ -31,7 +31,7 @@ const Contact = () => {
                 </div>
                 <div className="contact-details">
                   <h3>Email</h3>
-                  <a href="mailto:your.email@example.com">Get in touch</a>
+                  <a href="mailto:bradley.y.ma@gmail.com">bradley.y.ma@gmail.com</a>
                 </div>
               </div>
             </div>
@@ -45,7 +45,6 @@ const Contact = () => {
                 aria-label="GitHub Profile"
               >
                 <FiGithub />
-                <span>GitHub</span>
               </a>
               <a 
                 href="https://www.linkedin.com/in/bradleyyma/" 
@@ -55,20 +54,19 @@ const Contact = () => {
                 aria-label="LinkedIn Profile"
               >
                 <FiLinkedin />
-                <span>LinkedIn</span>
               </a>
             </div>
           </div>
           
           <div className="contact-cta">
             <div className="contact-card">
-              <h3>Ready to collaborate?</h3>
+              <h3>Want to reach out?</h3>
               <p>
                 Whether you have a project in mind, want to discuss opportunities, 
                 or just want to say hello, I'd love to hear from you.
               </p>
               <a 
-                href="mailto:your.email@example.com" 
+                href="mailto:bradley.y.ma@gmail.com" 
                 className="btn btn-primary"
               >
                 <FiMail />

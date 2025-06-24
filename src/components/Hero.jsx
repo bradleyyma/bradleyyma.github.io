@@ -4,8 +4,8 @@ import profileImage from '../img/Ma.Bradley.jpg';
 import './Hero.css';
 
 const Hero = () => {
-  const scrollToAbout = () => {
-    document.getElementById('about')?.scrollIntoView({ behavior: 'smooth' });
+  const scrollToProjects = () => {
+    document.getElementById('projects')?.scrollIntoView({ behavior: 'smooth' });
   };
 
   return (
@@ -25,13 +25,14 @@ const Hero = () => {
           </h1>
           
           <div className="hero-title">
-            <h2>Aspiring Software Engineer</h2>
+            <h2>Software Developer</h2>
           </div>
           
           <p className="hero-description">
-            Computer Science student at the University of Colorado Boulder, passionate about 
-            creating innovative solutions through code. I love building projects that solve 
-            real-world problems and continuously learning new technologies.
+            Computer Science graduate from the University of Colorado Boulder with experience 
+            in software development and programming. Passionate about learning new technologies 
+            and building applications to solve interesting problems. Looking for opportunities 
+            to grow and contribute to meaningful projects.
           </p>
           
           <div className="hero-buttons">
@@ -89,8 +90,8 @@ const Hero = () => {
       
       <button 
         className="hero-scroll" 
-        onClick={scrollToAbout}
-        aria-label="Scroll to about section"
+        onClick={scrollToProjects}
+        aria-label="Scroll to projects section"
       >
         <FiArrowDown />
       </button>

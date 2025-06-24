@@ -34,12 +34,6 @@ const Navigation = () => {
         </div>
         
         <div className={`nav-menu ${isOpen ? 'nav-menu-active' : ''}`}>
-          <a href="#about" className="nav-link" onClick={handleLinkClick}>
-            About
-          </a>
-          <a href="#skills" className="nav-link" onClick={handleLinkClick}>
-            Skills
-          </a>
           <a href="#projects" className="nav-link" onClick={handleLinkClick}>
             Projects
           </a>
