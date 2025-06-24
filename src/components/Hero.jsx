@@ -25,7 +25,7 @@ const Hero = () => {
           </h1>
           
           <div className="hero-title">
-            <h2>Software Developer</h2>
+            <h2>Software Engineer</h2>
           </div>
           
           <p className="hero-description">
@@ -44,7 +44,7 @@ const Hero = () => {
               Get In Touch
             </a>
             <a 
-              href="https://docs.google.com/document/d/1QOEAiRLSEbMEwohLhvCo5oO6pB2tsH_aj5HqOF6SlG4/edit?usp=sharing" 
+              href="/resume.pdf" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn btn-outline"
