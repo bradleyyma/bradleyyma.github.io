@@ -1,7 +1,7 @@
 import React from "react";
 import { FiGithub, FiExternalLink, FiCalendar } from 'react-icons/fi';
 import project_info from "./project_info.js";
-import './Projects.css';
+import './projects.css';
 
 const Projects = () => {
   return (
